@@ -1,18 +1,18 @@
 {
   "name": "form-data-urlencoded",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "description": "Сonverts data form to application/x-www-form-urlencoded",
   "keywords": [
     "application/x-www-form-urlencoded",
     "urlencoded",    
     "form data"     
   ],
-  "homepage": "https://github.com/semiromid/form-data-urlencoded",
-  "bugs": "https://github.com/semiromid/form-data-urlencoded/issues",
+  "homepage": "https://github.com/Yuriy-Svetlov/form-data-urlencoded",
+  "bugs": "https://github.com/Yuriy-Svetlov/form-data-urlencoded/issues",
   "license": "MIT",
   "author": {
-    "name": "TAMARA SEMINA",
-    "email": "startpascal1@mail.ru"
+    "name": "Yuriy-Svetlov",
+    "email": "sominiurii@gmail.com"
   },
   "files": [
     "LICENSE",
@@ -22,7 +22,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/form-data-urlencoded.git"
+    "url": "https://github.com/Yuriy-Svetlov/form-data-urlencoded.git"
   }
 
 }
